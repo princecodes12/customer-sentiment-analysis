@@ -4,7 +4,7 @@
 
 
 # Dataset:
-> The dataset used for this analysis is the Diwali dataset sale, which contains the following columns:
+The dataset used for this analysis is the Diwali dataset sale, which contains the following columns:
 
 User Id: A unique user id of the customer
 Cust_name: Name of the Customer
@@ -17,7 +17,7 @@ Product_Category: Category of the Product the Customer bought
 
 
 # Clone the repository:
-> git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/your-username/your-repository.git
 
 # Results:
-> After analyzing the dataset, we provide insights into customer sentiments.
+After analyzing the dataset, we provide insights into customer sentiments.
