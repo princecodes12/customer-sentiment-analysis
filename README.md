@@ -1,6 +1,6 @@
 # customer-sentiment-analysis-on-Diwali-DataSet
 # Overview:
--This repository contains code for performing sentiment analysis on customer reviews from the Diwali dataset sale. The Diwali dataset sale consists of customer reviews and ratings from a popular e-commerce platform during the Diwali season. The goal of this analysis is to understand the sentiment of customers towards products and services during this festive period.
++This repository contains code for performing sentiment analysis on customer reviews from the Diwali dataset sale. The Diwali dataset sale consists of customer reviews and ratings from a popular e-commerce platform during the Diwali season. The goal of this analysis is to understand the sentiment of customers towards products and services during this festive period.
 
 
 # Dataset:
